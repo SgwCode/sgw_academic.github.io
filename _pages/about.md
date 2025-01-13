@@ -27,17 +27,17 @@ My Research Interests
 Publications
 ------
 To be submitted:
-•	Guowen Sun, Ria L Mitchell, Zilei Chen, Farma Omrani, Matt Smith, Clara Frias, J. Patrick A. Fairclough, Christophe Pinna, “X-ray Computed Tomography Characterisation of Damage Development during in-situ Tensile Testing of Carbon Fibre Composites Manufactured through Tailored Fibre Placement” (To be submitted).
+1. Guowen Sun, Ria L Mitchell, Zilei Chen, Farma Omrani, Matt Smith, Clara Frias, J. Patrick A. Fairclough, Christophe Pinna, “X-ray Computed Tomography Characterisation of Damage Development during in-situ Tensile Testing of Carbon Fibre Composites Manufactured through Tailored Fibre Placement” (To be submitted).
 
 In preparation:
-•	Guowen Sun, Ria L Mitchell, Zilei Chen, Farma Omrani, Matt Smith, Clara Frias, J. Patrick A. Fairclough, Christophe Pinna, “Internal Damage Evolution Investigation of Carbon Fibre Reinforced Composite Fabricated by Tailored Fibre Placement using in-situ Tensile X-ray Computed Tomography and Digital Volume Correlation” (In preparation).
-•	Guowen Sun, Farma Omrani, Matt Smith, Clara Frias, J. Patrick A. Fairclough, Christophe Pinna, “A comprehensive investigation on the fibre distribution behaviour: a case study of carbon fibre reinforced composites manufactured through Tailored Fibre Placement” (In preparation).
-•	Guowen Sun, Farma Omrani, Matt Smith, Clara Frias, J. Patrick A. Fairclough, Christophe Pinna, “A Mesoscopic Model of TFP Manufactured Composites based on the XCT Characterisation” (In preparation).
+1. Guowen Sun, Ria L Mitchell, Zilei Chen, Farma Omrani, Matt Smith, Clara Frias, J. Patrick A. Fairclough, Christophe Pinna, “Internal Damage Evolution Investigation of Carbon Fibre Reinforced Composite Fabricated by Tailored Fibre Placement using in-situ Tensile X-ray Computed Tomography and Digital Volume Correlation” (In preparation).
+2. Guowen Sun, Farma Omrani, Matt Smith, Clara Frias, J. Patrick A. Fairclough, Christophe Pinna, “A comprehensive investigation on the fibre distribution behaviour: a case study of carbon fibre reinforced composites manufactured through Tailored Fibre Placement” (In preparation).
+3. Guowen Sun, Farma Omrani, Matt Smith, Clara Frias, J. Patrick A. Fairclough, Christophe Pinna, “A Mesoscopic Model of TFP Manufactured Composites based on the XCT Characterisation” (In preparation).
 
 Conferences
 ------
 1. Sun, G., Mitchell, R., Chen, Z. et al. (4 more authors) (2023) 3D characterisation of the tensile failure of CFRPS manufactured through tailored fibre placement. In: Falzon, B. and McCarthy, C., (eds.) Proceedings of the 2023 International Conference on Composite Materials. 23rd International Conference on Composite Materials, 30 Jul - 04 Aug 2023, Belfast, United Kingdom. Queen's University Belfast.
-2. Sun, G., Mitchell, R., Chen, Z. et al. (4 more authors) (2023) 3D Characterisation of local deformation and damage developmeent in Tailored Fibre Placcement-manufactured composites under tensile loading. Proceedings of the SAMPE Conference 24 Belfast, 24th - 26th Sep 2024, Belfast, Northern Ireland.
+2. Sun, G., Mitchell, R., Chen, Z. et al. (4 more authors) (2024) 3D Characterisation of local deformation and damage developmeent in Tailored Fibre Placcement-manufactured composites under tensile loading. Proceedings of the SAMPE Conference 24 Belfast, 24th - 26th Sep 2024, Belfast, Northern Ireland.
 
 For more info
 ------
