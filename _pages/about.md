@@ -9,19 +9,21 @@ redirect_from:
 
 I am Guowen Sun, a final year PhD student, from the Department of the Mechanical, Aerospace, and Civil Engineering at the University of Sheffield. I am currently wating for the viva. I am under supervision of [Dr Christophe Pinna](https://www.sheffield.ac.uk/mac/people/mech-eng-academic-staff/christophe-pinna), [Prof. Patrick Fairclough](https://www.sheffield.ac.uk/mac/people/mech-eng-academic-staff/patrick-fairclough), and [Dr Matt Smith](https://www.sheffield.ac.uk/amrc/amrc-research-staff/matt-smith). I finished my Master degree at the Unversity of Sheffield with major in the Advanced Mechanical Engineering. I obtained Distinction degree after the MSc study. I am graduated from the ChangChun Institute of Technology (CIT) and attended 3+1 programme to the University of the West of Scotland (UWS) at the final year. I obtained first-class honor degree for my undergraduate study in the UWS. 
 
-My Research Interests
+Research Scope
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My project focuses on the developement of the multiscale modelling framework for the TFP composite based on the experimental characterisation. A standard workflow was built for multiscale experimental characterisation of the composite material. This involves to use SEM and X-ray Microscope (XRM) to characterise fibre distribution behaviour (microscale), fibre bundle structure (mesoscale), and laminate morphology (macroscale). Both ex-situ and in-situ characterisation was conducted.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 My Research Interests
 ======
 1. Composite manufacturing simulation
-1. Tailored Fibre Placement
-1. Digital Image/Volume Correlation
-1. Image processing
-1. Automative simulation
+2. Multiscale simulation
+3. Multiscale experimental characterisation
+4. Tailored Fibre Placement
+5. Digital Image/Volume Correlation
+6. Image processing
+7. Automative simulation
 
 Site-wide configuration
 ------
