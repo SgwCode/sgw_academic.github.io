@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2023-08-04
-venue: 'GitHub Journal of Bugs'
+venue: 'ICCM23'
 paperurl: 'https://eprints.whiterose.ac.uk/212742/'
 citation: "Sun, G., Mitchell, R., Chen, Z. et al. (4 more authors) (2023) 3D characterisation of the tensile failure of CFRPS manufactured through tailored fibre placement. In: Falzon, B. and McCarthy, C., (eds.) Proceedings of the 2023 International Conference on Composite Materials. 23rd International Conference on Composite Materials, 30 Jul - 04 Aug 2023, Belfast, United Kingdom. Queen's University Belfast."
 ---
