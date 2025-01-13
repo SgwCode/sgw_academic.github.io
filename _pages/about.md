@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Introduction to Guowen Sun (孙国文)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Guowen Sun from the University of Sheffield. I am currently a PhD student wating for the viva. This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am Guowen Sun, a final year PhD student, from the Department of the Mechanical, Aerospace, and Civil Engineering at the University of Sheffield. I am currently wating for the viva. I am under supervision of Dr Christophe Pinna, Prof. Patrick Fairclough, and Dr Matt Smith. I finished my Master degree at the Unversity of Sheffield as well. I obtained Distinction degree during MSc study. I am graduated from the ChangChun Institute of Technology and attended 3+1 programme to the University of the West of Scotland (UWS) at the final year. I obtained first-class honor degree for my undergraduate study in the UWS. 
+
+This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
