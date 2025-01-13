@@ -13,17 +13,16 @@ Research Scope
 ======
 My project focuses on the developement of the multiscale modelling framework for the TFP composite based on the experimental characterisation. A standard workflow was built for multiscale experimental characterisation of the composite material. This involves to use SEM and X-ray Microscope (XRM) to characterise fibre distribution behaviour (microscale), fibre bundle structure (mesoscale), and laminate morphology (macroscale). Both ex-situ and in-situ characterisation was conducted.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
 My Research Interests
 ======
 1. Composite manufacturing simulation
 2. Multiscale simulation
 3. Multiscale experimental characterisation
-4. Tailored Fibre Placement
-5. Digital Image/Volume Correlation
-6. Image processing
-7. Automative simulation
+4. Mechanical properties and strength prediction
+5. Tailored Fibre Placement
+6. Digital Image/Volume Correlation
+7. Image processing
+8. Automative simulation
 
 Publications
 ------
@@ -39,18 +38,6 @@ Conferences
 ------
 1. Sun, G., Mitchell, R., Chen, Z. et al. (4 more authors) (2023) 3D characterisation of the tensile failure of CFRPS manufactured through tailored fibre placement. In: Falzon, B. and McCarthy, C., (eds.) Proceedings of the 2023 International Conference on Composite Materials. 23rd International Conference on Composite Materials, 30 Jul - 04 Aug 2023, Belfast, United Kingdom. Queen's University Belfast.
 2. Sun, G., Mitchell, R., Chen, Z. et al. (4 more authors) (2023) 3D Characterisation of local deformation and damage developmeent in Tailored Fibre Placcement-manufactured composites under tensile loading. Proceedings of the SAMPE Conference 24 Belfast, 24th - 26th Sep 2024, Belfast, Northern Ireland.
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
