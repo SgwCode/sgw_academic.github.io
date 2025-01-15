@@ -1,6 +1,6 @@
 ---
 title: "ICCM23 in Belfast, UK"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/ICCM23.png'>"
+excerpt: "Photo in International Conference on Composite Material 2023 <br/><img src='/images/ICCM23.png'>"
 collection: portfolio
 ---
 
