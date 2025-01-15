@@ -12,7 +12,7 @@ title                    : Guowen Sun / Accademic page
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://sunguowen.com/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://sunguowen.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sgwcode/sgw_academic.github.io"
 
