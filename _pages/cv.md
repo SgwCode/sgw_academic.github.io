@@ -18,29 +18,22 @@ Education
 
 Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+PhD Research
+•	Worked and associated with the AMRC for addressing TFP-induced manufacturing defects.
+•	Tools and Methods:
+o	Multiscale characterisation of TFP composite from microscale to mesoscale using SEM and X-ray Microscope (Zeiss Versa 620). In-situ characterisation of TFP composite using Deben CT5000 loading rig.
+o	Generating Representative Volume Element (RVE) model based on the characterised fibre distribution behaviour using Python to achieve high fibre volume fraction and periodicity.
+o	Constructing mesoscopic model using SolidWorks and achieving automated model construction process using Python/PyQt.
+o	Determination of failure mechanism of TFP-composites and developing damage criterion on the strength prediction of TFP composites through VUMAT/UMAT subroutine and ABAQUS simulation.
+o	Developing Python/C++ based DVC algorithm to produce volumetric strain results from temporal CT results to validate numerical models.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+•	Programming: Python, C/C++, MATLAB, FORTRAN, VB.NET
+•	Software: ABAQUS, ANSYS, SOLIDWORKS, Fusion 360, Dragonfly ORS.
+•	Experiment: ZEISS Veras 620 X-ray Microscope, Deben CT5000 loading rig,
+  2D/3D DIC.
+•	Others: Literature sorting and classification; Sample preparation; Rig design; Data analysis; Scientific graph plotting.
 
 Publications
 ======
