@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Advanced Mechanical Engineering, University of Sheffield, 01/2025 (expected)
+* M.S. in Advanced Mechanical Engineering, University of Sheffield, 09/2019-09/2020
+* B.S. in Mechanical Engineering, University of the West of Scotland, 09/2018-06/2019
+* B.S. in Mechanical Design and Automation, Changchun institute of technology, 09/2015-06/2019
 
-Work experience
+Research experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
