@@ -12,6 +12,7 @@ I am Guowen Sun, a final year PhD student, from the Department of the Mechanical
 Research Scope
 ======
 PhD Project
+
 My project focuses on the developement of the multiscale modelling framework for the TFP composite based on the experimental characterisation. A standard workflow was built for multiscale experimental characterisation of the composite material. This involves to use SEM and X-ray Microscope (XRM) to characterise fibre distribution behaviour (microscale), fibre bundle structure (mesoscale), and laminate morphology (macroscale). Both ex-situ and in-situ characterisation was conducted using the XRM. Automative construction process of numerical models in the microscale for Representative Volume Element (RVE) model and in the mesoscale for Representative Unit Cell model was achieved.
 
 My Research Interests
