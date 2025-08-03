@@ -1,7 +1,7 @@
 ---
 title: "3D tensile fracture analysis tailored fibre placement composites using digital volume correlation"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-08-03-paper-title-number-1
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2025-08-03
