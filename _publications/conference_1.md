@@ -3,7 +3,7 @@ title: "3D Characterisation of the Tensile Failure of CFRPs Manufactured Through
 collection: publications
 category: conferences
 permalink: /publication/conference_1
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'This work, presented at ICCM23 in PPT form, investigates the tensile response and 3D damage development in a [0/60/−60]s TFP‑manufactured CFRP composite using in‑situ X‑ray microscopy. Results highlight the critical role of stitching threads in influencing fibre bundle morphology, crack initiation, and propagation, while effectively limiting interlaminar delamination.'
 date: 2023-08-04
 venue: 'ICCM23'
 paperurl: 'https://eprints.whiterose.ac.uk/212742/'
