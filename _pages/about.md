@@ -28,13 +28,15 @@ My Research Interests
 
 Publications
 ------
-To be submitted:
-1. Guowen Sun, Ria L Mitchell, Zilei Chen, Farma Omrani, Matt Smith, Clara Frias, J. Patrick A. Fairclough, Christophe Pinna, “X-ray Computed Tomography Characterisation of Damage Development during in-situ Tensile Testing of Carbon Fibre Composites Manufactured through Tailored Fibre Placement” (To be submitted).
+Published:
+1. Sun, G., Mitchell, R.L., Chen, Z., Omrani, F., Smith, M., Frias, C., Fairclough, J.P.A. and Pinna, C., 2025. 3D tensile fracture analysis of tailored fibre placement composites using digital volume correlation. Theoretical and Applied Fracture Mechanics, p.105127.
 
-In preparation:
-1. Guowen Sun, Ria L Mitchell, Zilei Chen, Farma Omrani, Matt Smith, Clara Frias, J. Patrick A. Fairclough, Christophe Pinna, “Internal Damage Evolution Investigation of Carbon Fibre Reinforced Composite Fabricated by Tailored Fibre Placement using in-situ Tensile X-ray Computed Tomography and Digital Volume Correlation” (In preparation).
-2. Guowen Sun, Farma Omrani, Matt Smith, Clara Frias, J. Patrick A. Fairclough, Christophe Pinna, “A comprehensive investigation on the fibre distribution behaviour: a case study of carbon fibre reinforced composites manufactured through Tailored Fibre Placement” (In preparation).
-3. Guowen Sun, Farma Omrani, Matt Smith, Clara Frias, J. Patrick A. Fairclough, Christophe Pinna, “A Mesoscopic Model of TFP Manufactured Composites based on the XCT Characterisation” (In preparation).
+Under review:
+1. Sun, G., Mitchell, R.L., Chen, Z., Omrani, F., Smith, M., Frias, C., Fairclough, J.P.A. and Pinna, C., 2025. X-ray Computed Tomography Characterisation of Damage Development in Tailored Fibre Placement Composites during in-situ Tensile Testing. Composite Part A.
+
+To be submitted:
+1. Guowen Sun, Farma Omrani, Matt Smith, Clara Frias, J. Patrick A. Fairclough, Christophe Pinna, “A comprehensive investigation on the fibre distribution behaviour: a case study of carbon fibre reinforced composites manufactured through Tailored Fibre Placement”.
+2. Guowen Sun, Farma Omrani, Matt Smith, Clara Frias, J. Patrick A. Fairclough, Christophe Pinna, “A Mesoscopic Model of TFP Manufactured Composites based on the XCT Characterisation”.
 
 Conferences
 ------
