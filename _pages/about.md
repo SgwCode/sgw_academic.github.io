@@ -38,6 +38,9 @@ Published:
 Under review:
 1. Sun, G., Mitchell, R.L., Chen, Z., Omrani, F., Smith, M., Frias, C., Fairclough, J.P.A. and Pinna, C., 2025. X-ray Computed Tomography Characterisation of Damage Development in Tailored Fibre Placement Composites during in-situ Tensile Testing. Composite Part A.
 
+Under revision:
+1. G.Sun, T. Murmu, A. A. Abdel-Wahab, T. Leslie, B. Rakshani, O. Obeid, 2025. Short-term Moisture Effects on the Flexural Performance of Sustainable Flax-Epoxy and Carbon-Flax-Carbon Composites. Journal of Natural Fibres.
+
 To be submitted:
 1. Guowen Sun, Farma Omrani, Matt Smith, Clara Frias, J. Patrick A. Fairclough, Christophe Pinna, “A comprehensive investigation on the fibre distribution behaviour: a case study of carbon fibre reinforced composites manufactured through Tailored Fibre Placement”.
 2. Guowen Sun, Farma Omrani, Matt Smith, Clara Frias, J. Patrick A. Fairclough, Christophe Pinna, “A Mesoscopic Model of TFP Manufactured Composites based on the XCT Characterisation”.
